@@ -19,6 +19,18 @@
               }
             },
             "group": "096b184d9274e3e6"
+          },
+          {
+            "id": "a7ededf7503bed2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Document/Read_BMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -89,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b34b084ec918450c",
@@ -167,10 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bfec4417833a502",
+  "active": "7d82359929d7d917",
   "lastOpenFiles": [
-    "ReadMe.md.md",
+    "Document/Read_BMP.md",
     "README.md",
+    "ReadMe.md.md",
     "Untitled",
     "Document"
   ]
