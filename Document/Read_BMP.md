@@ -1,3 +1,3 @@
 # Do something here
 
-# [Go Back](../README)
+# [Go Back](~/README.md)
