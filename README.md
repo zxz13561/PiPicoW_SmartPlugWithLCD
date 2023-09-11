@@ -4,7 +4,7 @@
 ### 1. Hardware
 * #### Hardware List 
 	* Home Plug Module
-	* Peacefair PZEM-004T Energy Meters 
+	* Peacefair PZEM-004T Power Meters 
 	* Pi Pico W
 	* 128x160 SPI Full color TFT LCD Module
 	
@@ -26,11 +26,12 @@
 * #### Architecture
 ![SW_img](/Images/SW_FSM.png)
 
+
 ### 3. Solving Problems
 * #### [Read BMP Image](/Document/Read_BMP.md)
-* #### Turn 90 Degree
-* #### Frames
-* #### API Server
+* #### [Turn 90 Degree](/Document/Turn_90.md)
+* #### [Frames](/Document/LCD_Frame.md)
+* #### [API Server](/Document/API_Server.md)
 
 ### 3. Result
 * Pictures

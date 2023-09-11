@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Document/Read_BMP.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "096b184d9274e3e6"
+          },
+          {
+            "id": "8882128edeaa0249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Document/API_Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -32,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Document/Read_BMP.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Document/Read_BMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Document/Read_BMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Document/Read_BMP.md"
               }
             }
           }
@@ -168,14 +180,21 @@
   },
   "active": "9bfec4417833a502",
   "lastOpenFiles": [
+    "Document/Turn_90.md",
     "Document/Read_BMP.md",
-    "Images/BMP_Code.png",
-    "Images/截圖 2023-09-11 下午2.27.48.png",
-    "Images/BMP_Photopea.png",
-    "Images/BMP_imhex.png",
+    "Images/LCD_func.png",
+    "Images/截圖 2023-09-11 下午8.36.46.png",
+    "Images/LCD_res.jpg",
+    "Images/BMP_res.jpg",
+    "Images/IMG_2664.jpg",
+    "Images/IMG_2663.jpg",
+    "Images/LCD_Bit.png",
+    "Images/LCD_Code.png",
+    "Images/LCD_Direct.png",
+    "Document/LCD_Frame.md",
+    "Document/API_Server.md",
     "README.md",
-    "Images/BMP_Hex.png",
-    "Images/BMP_Direction.png",
+    "Images/BMP_Code.png",
     "Images",
     "ReadMe.md.md",
     "Document"

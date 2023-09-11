@@ -23,5 +23,6 @@
 ![BMP_img](../Images/BMP_Code.png )
 
 * Done!
+![BMP_img](../Images/BMP_res.jpg )
 
-# [Go Back](../README.md)
+# [Go Back to Readme](../README.md)
