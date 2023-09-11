@@ -1,4 +1,14 @@
 # Build a simple API server
-## Step1: HTTP Request
+## Step1: Design Concept
+![http_img](../Images/http_flow.png)
+
 ## Step2: Request Format
-## Step3: Start Server
+* Refer to [# HTTP (HyperText Transfer Protocol) Basics](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
+![http_img](../Images/http_basic.png)
+## Step3: Start Coding
+* Refer to Flask how to setup get/pot url concept
+* Using decorator to filter request url and function
+* TODO
+
+## Step4: Result
+* Using [Postman](https://www.postman.com) to check working correctly

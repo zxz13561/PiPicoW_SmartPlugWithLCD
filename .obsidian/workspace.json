@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document/Read_BMP.md",
+                "file": "Document/API_Server.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document/Read_BMP.md",
+                "file": "Document/API_Server.md",
                 "mode": "preview",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Document/Read_BMP.md",
+                "file": "Document/API_Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Document/Read_BMP.md",
+                "file": "Document/API_Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Document/Read_BMP.md"
+                "file": "Document/API_Server.md"
               }
             }
           }
@@ -180,21 +180,21 @@
   },
   "active": "9bfec4417833a502",
   "lastOpenFiles": [
-    "Document/Turn_90.md",
     "Document/Read_BMP.md",
+    "Document/LCD_Frame.md",
+    "Document/API_Server.md",
+    "Document/Turn_90.md",
+    "Images/http_flow.png",
+    "Images/截圖 2023-09-11 下午9.26.36.png",
+    "Images/http_basic.png",
+    "Images/截圖 2023-09-11 下午8.51.46.png",
+    "README.md",
     "Images/LCD_func.png",
     "Images/截圖 2023-09-11 下午8.36.46.png",
     "Images/LCD_res.jpg",
     "Images/BMP_res.jpg",
     "Images/IMG_2664.jpg",
     "Images/IMG_2663.jpg",
-    "Images/LCD_Bit.png",
-    "Images/LCD_Code.png",
-    "Images/LCD_Direct.png",
-    "Document/LCD_Frame.md",
-    "Document/API_Server.md",
-    "README.md",
-    "Images/BMP_Code.png",
     "Images",
     "ReadMe.md.md",
     "Document"
