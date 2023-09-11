@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document/Read_BMP.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document/Read_BMP.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b34b084ec918450c",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Document/Read_BMP.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Document/Read_BMP.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Document/Read_BMP.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,12 +168,12 @@
   },
   "active": "9bfec4417833a502",
   "lastOpenFiles": [
+    "Document/Read_BMP.md",
     "Images/BMP_Code.png",
     "Images/截圖 2023-09-11 下午2.27.48.png",
     "Images/BMP_Photopea.png",
     "Images/BMP_imhex.png",
     "README.md",
-    "Document/Read_BMP.md",
     "Images/BMP_Hex.png",
     "Images/BMP_Direction.png",
     "Images",
