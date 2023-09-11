@@ -17,9 +17,11 @@
 
 ![BMP_img](../Images/BMP_Direction.png )
 
+## Step3: Show on LCD
 * Turn into buffer in code
 
-## Step3: Show on LCD
+![BMP_img](../Images/BMP_Code.png )
+
 * Done!
 
 # [Go Back](../README.md)
