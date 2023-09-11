@@ -9,7 +9,7 @@
 * #### Architecture
 
 ### 3. Solving Problems
-* #### [Read BMP Image](./Document/Read_BMP)
+* #### [Read BMP Image](/Document/Read_BMP.md)
 * #### Turn 90 Degree
 * #### Frames
 * #### API Server
