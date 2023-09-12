@@ -7,8 +7,11 @@
 ![http_img](../Images/http_basic.png)
 ## Step3: Start Coding
 * Refer to Flask how to setup get/pot url concept
+ ![http_img](../Images/http_flask.png)
 * Using decorator to filter request url and function
-* TODO
-
+ ![http_img](../Images/http_homemade.png)
+ 
 ## Step4: Result
 * Using [Postman](https://www.postman.com) to check working correctly
+
+# [Go Back to Readme](../README.md)
