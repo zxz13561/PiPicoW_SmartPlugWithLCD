@@ -4,7 +4,7 @@
 ![BMP_img](../Images/BMP_imhex.png)
 
 * Use Photo Pea to edit image and export as .bmp file: [Photopea](https://www.photopea.com)
-![BMP_img](../Images/BMP_photopea.png)
+![BMP_img](../Images/BMP_Photopea.png)
 
 ## Step2: Decode BMP
 * Refer to [BMP File Format Document](http://www.ece.ualberta.ca/~elliott/ee552/studentAppNotes/2003_w/misc/bmp_file_format/bmp_file_format.htm)
@@ -23,6 +23,7 @@
 ![BMP_img](../Images/BMP_Code.png )
 
 * Done!
+
 ![BMP_img](../Images/BMP_res.jpg )
 
 # [Go Back to Readme](../README.md)
