@@ -1,9 +1,11 @@
 # # How to Read Bitmap image and show on LCD
 ## Step1: Choose Tool
 * Use imhex to show image in hex code: [Official Website](https://imhex.werwolv.net)
+
 ![BMP_img](../Images/BMP_imhex.png)
 
 * Use Photo Pea to edit image and export as .bmp file: [Photopea](https://www.photopea.com)
+
 ![BMP_img](../Images/BMP_Photopea.png)
 
 ## Step2: Decode BMP

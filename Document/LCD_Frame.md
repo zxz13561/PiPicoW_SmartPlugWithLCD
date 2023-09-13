@@ -1,14 +1,20 @@
 # Animation and Information Ticker
 ## 1. Idea Concept
 * Animation: Update frames frequently(PUSH PICO TO LIMIT!)
+
 ![frame_img](../Images/frame_rate.png)
+
 * Ticker: Save all string in buffer, only show necessary pixel
+
 ![frame_img](../Images/frame_ticker.png)
 
 ## 2. Use Tool
 * [framebuf](https://docs.micropython.org/en/latest/library/framebuf.html) Library in Micropython
+
 ![frame_img](../Images/frame_lib.png)
+
 * Update pixel by pixel
+
 ![frame_img](../Images/frame_pixel.png)
 
 ## 3. Limitation
